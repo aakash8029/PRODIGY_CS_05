@@ -17,7 +17,7 @@ Installation
 
 Clone the Repository
 
-git clone https://github.com/govinddjaat751/packet-sniffer.git
+
 cd packet-sniffer
 Install Dependencies
 
